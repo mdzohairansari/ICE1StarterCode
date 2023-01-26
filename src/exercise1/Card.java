@@ -9,6 +9,7 @@ package exercise1;
  * add your name as a modifier.
  * @author dancye
  * @author Paul Bonenfant May 2020
+ * @modifier Zohair Ansari Jan 25, 2023
  */
 public class Card {
 
@@ -42,5 +43,6 @@ public class Card {
      */
     public void setValue(int value) {
         this.value = value;
-    }  
+    }
+    
 }
